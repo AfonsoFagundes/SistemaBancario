@@ -18,16 +18,6 @@ public class InfatilJuvenilAdulto {
 	    if (idade>=18)
 	    	System.out.println("adulto");
 		
-		 
-		    
-		
-		
-		
-		
-			
-		    
-		
-		    
 	}
 
 }
